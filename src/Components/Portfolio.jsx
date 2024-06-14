@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Job-Connect",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Job Connect is a dynamic and robust web application designed to bridge the gap between job seekers and employers. Developed using a modern tech stack comprising TypeScript, React, Node.js, and MongoDB, the platform facilitates seamless job searches and streamlined job posting processes.",
+    url: "https://github.com/Pranav1703/Job-Connect",
   },
   {
-    title: "Web Development for Beginners",
+    title: "File-Stash",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Job Connect is and file storage application designed to store and download the stored files. Files are stored locally within the project directory. This project is built using TypeScript, React, Node.js, and MongoDB.",
+    url: "https://github.com/Pranav1703/File-Stash",
   },
   {
-    title: "My Resume Site",
+    title: "WeatherCLI",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Command-line interface (CLI) tool developed in Go.The tool provides users with instant access to temperature and Air Quality Index (AQI) information for a specified location.",
+    url: "https://github.com/Pranav1703/Weather_CLI",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Ani-manga_scraper",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Built Desktop app using Wails framework in Go. Scrapes manga and anime data from websites using Colly framework, displaying and redirecting to read or watch content directly",
+    url: "https://github.com/Pranav1703/Ani-manga_scraper",
   },
 ];
 
